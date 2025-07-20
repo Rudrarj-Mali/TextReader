@@ -1,2 +1,2 @@
 A Simple Plugin To Read text From Txt file ....
-Nade by purely using Jetpack compose
+Purely made by using Jetpack compose
